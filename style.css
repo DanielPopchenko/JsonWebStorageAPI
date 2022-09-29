@@ -1,0 +1,9 @@
+.feedback-form {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.feedback-form button {
+  display: block;
+}
